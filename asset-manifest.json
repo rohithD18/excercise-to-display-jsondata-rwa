@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excercise-to-display-jsondata-rwa/static/css/main.d566f3ee.css",
+    "main.js": "/excercise-to-display-jsondata-rwa/static/js/main.922584cb.js",
+    "static/js/453.15c41802.chunk.js": "/excercise-to-display-jsondata-rwa/static/js/453.15c41802.chunk.js",
+    "index.html": "/excercise-to-display-jsondata-rwa/index.html",
+    "main.d566f3ee.css.map": "/excercise-to-display-jsondata-rwa/static/css/main.d566f3ee.css.map",
+    "main.922584cb.js.map": "/excercise-to-display-jsondata-rwa/static/js/main.922584cb.js.map",
+    "453.15c41802.chunk.js.map": "/excercise-to-display-jsondata-rwa/static/js/453.15c41802.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d566f3ee.css",
+    "static/js/main.922584cb.js"
+  ]
+}
